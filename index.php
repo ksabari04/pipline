@@ -18,7 +18,7 @@ if ($serverStatus == 'online') {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Server Check</title>
-    <link rel="stylesheet" href="assets/style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="container">
@@ -28,6 +28,6 @@ if ($serverStatus == 'online') {
             <button class="refresh-btn" onclick="window.location.reload();">Check Again</button>
         </div>
     </div>
-    <script src="assets/script.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>
