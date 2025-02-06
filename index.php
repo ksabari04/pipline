@@ -4,7 +4,7 @@ $serverStatus = 'online'; // You can use PHP to check server-related data
 
 // Display appropriate message based on server status
 if ($serverStatus == 'online') {
-    $statusMessage = "Server is running smoothly!";
+    $statusMessage = "Server is running smoothly!!!!!";
     $statusClass = "online";
 } else {
     $statusMessage = "Server is down, please try again later.";
