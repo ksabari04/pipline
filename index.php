@@ -22,7 +22,7 @@ if ($serverStatus == 'online') {
 </head>
 <body>
     <div class="container">
-        <h1>Welcome to my php server</h1>
+        <h1>Welcome to my php server om sai!!!!!!!!!!</h1>
         <div class="status-box <?php echo $statusClass; ?>">
             <p class="status-message"><?php echo $statusMessage; ?></p>
             <button class="refresh-btn" onclick="window.location.reload();">Check Again</button>
